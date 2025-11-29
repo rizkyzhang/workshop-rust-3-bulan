@@ -262,6 +262,7 @@ fn main() {
     
     // PTKP tier input
     let ptkp_tier = get_ptkp_tier();
+    let ptkp_value = get_ptkp_value(ptkp_tier.clone());
     
     // Calculate tax
     let ptkp_ter = get_ptkp_ter(ptkp_tier);
