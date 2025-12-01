@@ -1,3 +1,8 @@
+## Improvement
+
+- Separate into two directories: constants and helpers.
+- Fully utilize module system.
+
 ## Reference
 
 1. https://klikpajak.id/blog/pajak-penghasilan-pasal-21-2/
